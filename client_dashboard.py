@@ -1,3 +1,5 @@
+#This is the beautiful project
+
 import asyncio
 from mcp.client.stdio import StdioServerParameters, stdio_client
 from mcp import ClientSession
